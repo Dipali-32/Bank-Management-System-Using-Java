@@ -1,12 +1,12 @@
 # Bank-Management-System-Using-Java
 
-# Description
+# Description:
 
-The Bank Management System is a Java-based project that allows users to perform essential banking operations, such as account creation, login, balance inquiry, deposits, withdrawals, and more. The system uses MySQL Workbench to store user and transaction data securely.
+The Bank Management System is a Java-based project that allows users to perform essential banking operations, such as account creation, login, Balance Inquiry, deposits, withdrawals, and more. The system uses MySQL Workbench to store user and transaction data securely.
 
-# Features
+# Features:
 
- Signup: Register a new user with a unique account number.
+Signup: Register a new user with a unique account number.
 
 Login: Secure authentication using an account number and PIN.
 
@@ -22,9 +22,8 @@ Mini Statement: View the last 6 transactions.
 
 PIN Change: Update the security PIN.
 
-# Technologies Used
+# Technologies Used:
 
 Java (JDBC for database connectivity)
 
 MySQL Workbench (Database Management)
-
